@@ -5,7 +5,7 @@ const slider = [
       "'' Agricultural growth is a proven driver of poverty reduction. When agriculture stimulates growth ... the growth is twice as effective in reducing poverty as growth based in other sectors ''",
     tag: "GIZA MDOE",
     image:
-      "https://images.unsplash.com/uploads/141247613151541c06062/c15fb37d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY4MTg1MDA3NQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=720",
+      "https://images.unsplash.com/uploads/141247613151541c06062/c15fb37d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY4MTg1MDA3NQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
   },
   {
     title: "Solutions for a healthier, sustainable future",
