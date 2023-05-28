@@ -1,9 +1,10 @@
 .navbar
 {
-    background-color: #008f11 !important;
+    background-color: #67008f !important;
     width: auto;
     color: white !important;
 }
+
 .nav-cal{
     width: auto;
     color: white !important;
@@ -11,8 +12,9 @@
 }
 
 #username, #adminmenu {
+    margin-right: 100px;
     color: white !important;
-    font-size: 14px;
+    font-size: 10px;
 }
 
 .cart {
