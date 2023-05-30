@@ -65,33 +65,11 @@ const Footer = () => {
               </p>
             </MDBCol>
             <MDBCol md="2" lg="2" xl="2" className="mb-4 dark-grey-text">
-              <h6 className="text-uppercase font-weight-bold">
-                <strong>Links</strong>
-              </h6>
+              <h6 className="text-uppercase font-weight-bold"></h6>
               <hr
                 className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto"
                 style={{ width: "60px" }}
               />
-              <p>
-                <Link to="/farmer" className="dark-grey-text">
-                  Famer
-                </Link>
-              </p>
-              <p>
-                <Link to="/consumer" className="dark-grey-text">
-                  Consumer{" "}
-                </Link>
-              </p>
-              <p>
-                <Link to="/supplier" className="dark-grey-text">
-                  Supplier
-                </Link>
-              </p>
-              <p>
-                <Link to="/cart" className="dark-grey-text">
-                  Cart
-                </Link>
-              </p>
             </MDBCol>
             <MDBCol md="3" lg="3" xl="4" className="mb-4 dark-grey-text">
               <h6 className="text-uppercase font-weight-bold">
