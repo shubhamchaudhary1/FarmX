@@ -11,6 +11,8 @@ node_modules/
 
 # misc
 .DS_Store
+
+#Secret
 .env
 
 npm-debug.log*
